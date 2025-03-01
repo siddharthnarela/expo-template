@@ -1,0 +1,8 @@
+{
+  "name": "create-siddharth-app",
+  "version": "1.2.2",
+  "bin": {
+    "siddharth-app": "index.js"
+  },
+  "dependencies": {}
+}
